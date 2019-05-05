@@ -1,0 +1,4 @@
+#Thu May 02 21:21:26 CEST 2019
+base.0=/home/lucamtvt/Desktop/Flutter test/Furniture_App_UI/furniture_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
